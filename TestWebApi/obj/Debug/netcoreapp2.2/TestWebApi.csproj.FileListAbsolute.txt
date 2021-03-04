@@ -1,0 +1,16 @@
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.deps.json
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.runtimeconfig.json
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.runtimeconfig.dev.json
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.dll
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\bin\Debug\netcoreapp2.2\TestWebApi.pdb
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.csprojAssemblyReference.cache
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.RazorAssemblyInfo.cache
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.RazorAssemblyInfo.cs
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.AssemblyInfoInputs.cache
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.AssemblyInfo.cs
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.dll
+C:\Users\gaohainan\Source\Repos\TestWebApi\TestWebApi\obj\Debug\netcoreapp2.2\TestWebApi.pdb
